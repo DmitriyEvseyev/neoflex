@@ -1,4 +1,4 @@
-package main.java.com.neoflex.task1.singleton;
+package  com.neoflex.task1.singleton;
 
 
 import java.text.SimpleDateFormat;

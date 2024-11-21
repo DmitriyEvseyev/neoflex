@@ -1,4 +1,4 @@
-package main.java.com.neoflex.task1.proxy;
+package  com.neoflex.task1.proxy;
 
 public class DatabaseConnectionProxy implements DatabaseConnection {
     private final RealDatabaseConnection realDatabaseConnection;
@@ -6,7 +6,7 @@ public class DatabaseConnectionProxy implements DatabaseConnection {
 
     public DatabaseConnectionProxy() {
         this.databaseUrl = "jdbc:mysql://localhost:3306/";
-        this.realDatabaseConnection = new RealDatabaseConnection();
+        this.realDatabaseConnection =  new RealDatabaseConnection();
     }
 
     @Override

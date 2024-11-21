@@ -1,4 +1,4 @@
-package main.java.com.neoflex.task1.proxy;
+package  com.neoflex.task1.proxy;
 
 public class Main {
     public static void main(String[] args) {

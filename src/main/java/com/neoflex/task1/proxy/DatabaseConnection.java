@@ -1,4 +1,4 @@
-package main.java.com.neoflex.task1.proxy;
+package  com.neoflex.task1.proxy;
 
 public interface DatabaseConnection {
     String connect();

@@ -1,4 +1,4 @@
-package main.java.com.neoflex.task1.singleton;
+package  com.neoflex.task1.singleton;
 
 public class TestClass {
     public static void main(String[] args) {

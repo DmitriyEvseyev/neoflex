@@ -1,9 +1,9 @@
-package main.java.com.neoflex.task1.factory;
+package  com.neoflex.task1.factory;
 
-import main.java.com.neoflex.task1.factory.coffee.Americano;
-import main.java.com.neoflex.task1.factory.coffee.Coffee;
-import main.java.com.neoflex.task1.factory.coffee.CoffeeTypeEnum;
-import main.java.com.neoflex.task1.factory.coffee.Espresso;
+ import com.neoflex.task1.factory.coffee.Americano;
+ import com.neoflex.task1.factory.coffee.Coffee;
+ import com.neoflex.task1.factory.coffee.CoffeeTypeEnum;
+ import com.neoflex.task1.factory.coffee.Espresso;
 
 public class CoffeeFactory {
     public Coffee createCoffe(CoffeeTypeEnum coffeeTypeEnum) {
