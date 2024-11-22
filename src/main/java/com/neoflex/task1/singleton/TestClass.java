@@ -6,7 +6,7 @@ public class TestClass {
 
         TestClass testClass = new TestClass();
 
-        logger.classLogg(testClass, "Some info");
+        logger.classLogg(testClass, "Info");
     }
 }
 
